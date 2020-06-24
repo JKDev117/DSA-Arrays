@@ -87,3 +87,14 @@ Understanding more about how arrays work ---------------------------------------
     Q) What is the purpose of the _resize() function in your Array class?
         My Answer: It is to resize the array so there is space for the new item being added.
 --------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+/* Questions 5 - 12 -------------------------------------------------------------------------------------------------------------------------------------- //
+
+You can use JavaScript's built-in arrays to solve the following drills. 
+After you write the algorithm, identify its time complexity and determine if it needs to be optimized. 
+Start each problem by understanding the problem and coming up with some sample input and output. 
+For your convenience, a few sample input and output are provided.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------- */
