@@ -85,5 +85,5 @@ Understanding more about how arrays work ---------------------------------------
             My Answer: NaN
 
     Q) What is the purpose of the _resize() function in your Array class?
-        My Answer:
+        My Answer: It is to resize the array so there is space for the new item being added.
 --------------------------------------------------------------------------------------------------------------------------------------------------------- */
