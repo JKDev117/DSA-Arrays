@@ -11,10 +11,7 @@ Input: www.thinkful.com /tauh ida parv een
 Output: www.thinkful.com%20/tauh%20ida%20parv%20een
 */
 
-
-//O(n)
-
-function URLify(string) {    
+function URLify(string) { //O(n)   
     return string.split(' ').join('%20')
 }
 
